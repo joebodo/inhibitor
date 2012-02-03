@@ -1,0 +1,12 @@
+{
+"uuid": "inhibitor@joebodo",
+"name": "Inhibitor",
+"description": "Prevents the screensaver from activating",
+"original-author": "joebodo",
+"shell-version": [
+	"3.2.1"
+],
+"path": "/usr/share/gnome-shell/extensions/inhibitor@joebodo",
+"url": "https://github.com/joebodo/inhibitor",
+"version": 1
+}

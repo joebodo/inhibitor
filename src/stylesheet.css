@@ -1,0 +1,9 @@
+.inhibitor-indicator .inhibitor-indicator {
+    width: 24px;
+    height: 24px;
+    background-image: url("images/inhibited.svg");
+}
+
+#inhibitor-indicator:checked {
+    background-image: url("images/inhibited.svg");
+}
